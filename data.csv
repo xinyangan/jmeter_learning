@@ -1,0 +1,8 @@
+﻿CaseNum,apiType,CaseNum,CasePriority,url,methods,parameter,expectValue,
+case001,HTTP,GET request axy,1,/get,GET,user=axy,axy,
+case002,HTTP,POST request jth,1,/post,POST,user:jth,jth,
+case003,HTTP,GET request tjg,1,/get,GET,user=tjg,tjg,
+case004,HTTP,GET request jnj,1,/post,POST,user:jnj,jnj,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
